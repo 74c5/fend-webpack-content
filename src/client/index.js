@@ -3,4 +3,4 @@ import { handleSubmit } from './js/formHandler'
 
 console.log(checkForName);
 
-alert("I EXIST")
+alert("The cake is a lie... And I'm still alive... ")
